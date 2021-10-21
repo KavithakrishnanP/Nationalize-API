@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(253, 249, 249);
+    font-family: "Nunito Sans", sans-serif;
+    color:black;
+}
+.search-box{
+    position:absolute;
+    background: #f4f5f5;
+    
+  
+}
+.country-card{
+    text-align: left;
+    margin-bottom: 30px;
+}
